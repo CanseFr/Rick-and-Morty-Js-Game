@@ -1,4 +1,3 @@
 # RICK-GAME-STARTING-FILES
 
-RICK AND MORTY GAME STARTING FILES FOR MY STUDENTS.
-# Rick-and-Morty-Js-Game
+- Rick-and-Morty-Js-Game
